@@ -1,5 +1,3 @@
-# python-projects
-
 # Python Projects
 
 This repository contains Python coursework and practice projects completed as part of my Computer Science and Information Technology studies. The projects focus on scripting, automation, data handling, and problem-solving.
